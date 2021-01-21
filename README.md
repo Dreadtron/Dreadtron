@@ -1,11 +1,11 @@
 ### 你好👋
-我是Leo Mou，因為對於CAT工具、機械翻譯、翻譯流程自動化的熱情，而正在自學Python，希望能更了解這些技術程式方面的內涵。這裡是我放課程作業的github，將來也會放入個人作品。
+我是Leo Mou，因為對於CAT工具、機械翻譯、翻譯流程自動化的熱情，而正在自學Python，希望能更了解這些技術程式方面的內涵。這裡是我放課程成果的github，將來也會放入個人作品。
 
 ## 參與過的線上課程
 [Python - 輕鬆學會寫程式](https://www.udemy.com/course/python-learn/) <br/>
 [Python進階課程：觀念、語法、專案、爬蟲](https://www.udemy.com/course/pythonadvanced/)
 
-## 課程作業
+## 課程成果
 ◎ [Python_Line_Chatbot_Public](https://github.com/Dreadtron/Python_Line_Chatbot_Public) <br/>
 　　簡單的Line聊天機器人 <br/>
 ◎ [yt-keyword-clip](https://github.com/Dreadtron/yt-keyword-clip) <br/>

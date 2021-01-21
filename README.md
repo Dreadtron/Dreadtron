@@ -9,7 +9,7 @@
 ◎ [Python_Line_Chatbot_Public](https://github.com/Dreadtron/Python_Line_Chatbot_Public) <br/>
 　　簡單的Line聊天機器人 <br/>
 ◎ [yt-keyword-clip](https://github.com/Dreadtron/yt-keyword-clip) <br/>
-　　從特定頻道的影片字幕中指定關鍵字，下載包含關鍵字的影片後，將包含關鍵字的影片片段剪輯出來，並整理成一個單獨的影片檔 <br/>
+　　從特定頻道的影片字幕中指定關鍵字，下載包含關鍵字的影片後，將包含關鍵字的影片片段剪輯出來，並整理成一個影片檔 <br/>
 
 <!--
 **Dreadtron/Dreadtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

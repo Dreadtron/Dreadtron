@@ -13,7 +13,7 @@
 ◎ [Selenium_THSR_Sched](https://github.com/Dreadtron/Selenium_THSR_Sched) <br/>
 　　使用Selenium，從高鐵網站中抓下指定地點、日期的高鐵出發與抵達時間，並使用openpyxl輸出到Excel檔中 <br/>
 ◎ [BS4_TAIFEX](https://github.com/Dreadtron/BS4_TAIFEX) <br/>
--使用Beautiful Soup，從台灣期貨交易所網站中抓下這七天中非假日當日資料，將表格以Panda輸出到一綜合Excel檔，及各自的單日html檔中
+  -使用Beautiful Soup，從台灣期貨交易所網站中抓下這七天中非假日當日資料，將表格以Panda輸出到一綜合Excel檔，及各自的單日html檔中
 
 <!--
 **Dreadtron/Dreadtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
